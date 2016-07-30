@@ -9,6 +9,10 @@ body {
   background-color: #F0F8FF;
 }
 
+p {
+  font-size: 15px;
+}
+
 header {
   margin: 50px;
 }
@@ -55,7 +59,7 @@ header h2{
   background-color:black;
 }
 
-.imageBlock > p {
+.imageBlock > figcaption {
     width: 100%;
     height: 100%;
     font-weight: normal;
@@ -66,7 +70,7 @@ header h2{
     font-weight: 100;
 }
 
-.imageBlock:hover > p {
+.imageBlock:hover > figcaption {
     background-color: rgba(3,3,3,0.5);
     color: white;
 }
@@ -106,6 +110,10 @@ header h2{
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100px;
+}
+
+.galore {
+  color: #fa7470;
 }
 
 footer {
