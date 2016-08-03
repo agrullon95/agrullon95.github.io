@@ -6,11 +6,29 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #F0F8FF;
+  background-color: #ddd;
 }
 
 p {
   font-size: 15px;
+}
+
+a {
+  color: #fa7470;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+hr {
+  border: 1px dotted #fa7470;
+  margin: 0px 0px;
+}
+
+.head {
+  margin: 50px 0px;
+  font-size: 45px;
 }
 
 header {
@@ -50,7 +68,7 @@ header h2{
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100px; */
-  border: 1px solid white;
+  border: 1px solid #ddd;
   padding: 0px;
   margin: 0px;
   text-align: center;
