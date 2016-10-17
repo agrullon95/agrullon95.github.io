@@ -134,12 +134,22 @@ header h2{
   color: #fa7470;
 }
 
+.Resume {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.resumeLink {
+  border: 2px dashed black;
+  padding: 10px;
+}
+
 footer {
   margin: 20px 10px;
 }
 
 /*
-IGNORE... FOR MY OWN FUTURE REFERENCE
+IGNORE... THIS FOR MY OWN FUTURE REFERENCE
 ICONS FROM -
 http://www.flaticon.com/packs/essential-collection
 */
